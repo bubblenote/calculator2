@@ -20,7 +20,7 @@
 				}
 				
 				function resetAll(){
-					document.getElementById("NumInput").value = ""4;
+					document.getElementById("NumInput").value = "";
 					
 					/*if (typeof isEmpty !=== "undefined"){
 					//if (true){
